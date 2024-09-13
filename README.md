@@ -1,4 +1,6 @@
-# damo-create
-this is git repository ...new experimental 
+#New
+This is my Git repository
 <br>
-Author -- Sakibull chor
+Author--Mohosinin Islam
+<br>
+<h6>other info comming soon..</h6>
